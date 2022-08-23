@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/hashtagprateek" target="blank"><img src="https://img.shields.io/twitter/follow/hashtagprateek?logo=twitter&style=for-the-badge" alt="hashtagprateek" /></a> </p>
 
+- 📫 How to reach me **prateekbansal64@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kZrXRI5Nx3plT0bTQ-5q-OMYCBwEzxta/view](https://drive.google.com/file/d/1kZrXRI5Nx3plT0bTQ-5q-OMYCBwEzxta/view)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hashtagprateek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hashtagprateek" height="30" width="40" /></a>
