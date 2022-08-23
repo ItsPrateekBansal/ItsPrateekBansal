@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsprateekbansal&label=Profile%20views&color=0e75b6&style=flat" alt="itsprateekbansal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsprateekbansal" alt="itsprateekbansal" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/hashtagprateek" target="blank"><img src="https://img.shields.io/twitter/follow/hashtagprateek?logo=twitter&style=for-the-badge" alt="hashtagprateek" /></a> </p>
 
 - 📫 How to reach me **prateekbansal64@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kZrXRI5Nx3plT0bTQ-5q-OMYCBwEzxta/view](https://drive.google.com/file/d/1kZrXRI5Nx3plT0bTQ-5q-OMYCBwEzxta/view)
+- 📄 Know about my experiences [Check out my Resume](https://drive.google.com/file/d/1kZrXRI5Nx3plT0bTQ-5q-OMYCBwEzxta/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
