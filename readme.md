@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hashtagprateek" target="blank"><img src="https://img.shields.io/twitter/follow/hashtagprateek?logo=twitter&style=for-the-badge" alt="hashtagprateek" /></a> </p>
 
-- 📫 How to reach me **prateekbansal64@gmail.com**
+- 📫 How to reach me **prateekbansal2425@gmail.com / prateekbansal64@gmail.com**
 
 - 📄 Know about my experiences [Check out my Resume](https://drive.google.com/file/d/1kZrXRI5Nx3plT0bTQ-5q-OMYCBwEzxta/view)
 
