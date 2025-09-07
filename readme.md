@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prateek Bansal</h1>
-<h3 align="center">A passionate Software Engineer from India, currently a final year Computer Science Student at Thapar University.</h3>
+<h3 align="center">A passionate Software Engineer from Silicon Valley, currently a MSCS Student at San Jose State University in San Jose, California, United States.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsprateekbansal&label=Profile%20views&color=0e75b6&style=flat" alt="itsprateekbansal" /> </p>
 
